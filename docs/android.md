@@ -13,9 +13,7 @@
 | <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="Linksheet" style="width: 30px; height: 30px; vertical-align: middle; display: inline-block;"> <span style="vertical-align: middle; display: inline-block;"> **LinkSheet** </span> |<span style="color: green;">✓</span>| GNU GPLv3       | Bağlantı Yönetimi |
 
 ---
-
-### <span style="display: inline-block; vertical-align: middle;"> <img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="LinkSheet Logo"> </span> <span style="display: inline-block; vertical-align: middle;"> LinkSheet
-
+### <span style="display: inline-block; vertical-align: middle;"><img src="https://raw.githubusercontent.com/LinkSheet/LinkSheet/refs/heads/master/app/src/main/res/drawable/app_linksheet.png" alt="LinkSheet" style="width: 50px; height: auto;"> </span> <span style="display: inline-block; vertical-align: middle;"> LinkSheet
 
 LinkSheet, Android cihazlarda bağlantı yönetimi ve kullanıcı gizliliği açısından benzersiz bir araçtır. Android 12 ile kaldırılan bağlantı seçici özelliğini geri getirerek, bağlantıların nasıl açılacağını seçme özgürlüğü sunar. ClearURLs ve LibRedirect entegrasyonu ile kullanıcı gizliliğini artırır. 
 
@@ -31,8 +29,8 @@ LinkSheet, Android cihazlarda bağlantı yönetimi ve kullanıcı gizliliği aç
 | **ClearURLs Entegrasyonu**       | URL’lerdeki izleme parametrelerini temizler.                                |
 | **LibRedirect Entegrasyonu**     | Bağlantıları açık kaynak alternatiflere veya istemcilere yönlendirir.                        |
 | **Kullanıcı Dostu Arayüz**       | Basit, modern ve kolay anlaşılır bir tasarım sunar.                         |
-| **Kullanım İstatistikleri**      | Sık kullanılan veya en son kullanılan uygulamalara göre sıralama yapma.     |
-| **Doğrulanmış Bağlantı Kontrolü**| Android'in bağlantı açma kısıtlamalarını devre dışı bırakma.                |
+| **Kullanım İstatistikleri**      | Sık kullanılan veya en son kullanılan uygulamalara göre sıralama yapar.     |
+| **Doğrulanmış Bağlantı Kontrolü**| Android'in bağlantı açma kısıtlamalarını devre dışı bırakır.               |
 
 ---
 
